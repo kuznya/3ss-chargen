@@ -1,4 +1,4 @@
-## rpg-3ss-pcgen-js
-3ss PC generator
+## 3ss-chargen
+3 stats system (3ss) character generator
 
 2012
